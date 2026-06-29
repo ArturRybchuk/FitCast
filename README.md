@@ -13,12 +13,12 @@
 
 FitCast is designed for a premium App Store presence utilizing a seamless, continuous panoramic mockup grid. The UI transitions smoothly across screens, guiding the user's focus from contextual data widgets to high-density personalization flows.
 
-![FitCast Full Panoramic Showcase](assets/full-length-showcase.jpg)
+![FitCast Full Panoramic Showcase](Assets/full-length-showcase.jpg)
 
 *App Store Screen Modules Breakdown:*
-* **01. Live Weather Dashboard:** ![Live Preview](assets/dashboard-screen.jpg)
-* **02. Smart Personalized Alerts:** ![Notification Center](assets/notifications-screen.jpg)
-* **03. Global Cities & AQI Monitoring:** ![Cities Tracking](assets/cities-screen.jpg)
+* **01. Live Weather Dashboard:** ![Live Preview](Assets/dashboard-screen.jpg)
+* **02. Smart Personalized Alerts:** ![Notification Center](Assets/notifications-screen.jpg)
+* **03. Global Cities & AQI Monitoring:** ![Cities Tracking](Assets/cities-screen.jpg)
 
 ---
 
