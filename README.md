@@ -1,6 +1,6 @@
 # FitCast: Smart Weather & Activity Planner
 
-> **Global climate in your pocket.** A native iOS application that bridges hyper-local weather conditions, air quality monitoring, and personalized outdoor activity recommendations — all wrapped inside a beautiful, multi-sensory glassmorphic UI.
+> **Global climate in your pocket.** A native iOS application that bridges hyper-local weather conditions, air quality monitoring, and personalized outdoor activity recommendations — all wrapped inside a beautiful, multi-sensory liquid glass UI.
 
 [![Platform](https://img.shields.io/badge/Platform-iOS%2018.5+-blue.svg)]()
 [![Language](https://img.shields.io/badge/Language-Swift%205-orange.svg)]()
@@ -9,9 +9,9 @@
 
 ---
 
-## App Store Panoramic Showcase
+## App Store Interface Modules
 
-FitCast is designed for a premium App Store presence utilizing a seamless, continuous panoramic mockup grid. The UI transitions smoothly across screens, guiding the user's focus from contextual data widgets to high-density personalization flows.
+The application interface is structured around fluid, modular visual layouts designed to handle dense atmospheric and behavioral data without cluttering the viewport.
 
 ![FitCast Full Panoramic Showcase](Assets/full-length-showcase.jpg)
 
