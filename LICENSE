@@ -1,0 +1,24 @@
+Copyright (c) 2026 Artur Rybchuk / FitCast. All rights reserved.
+
+The software, interfaces, graphics, audio assets, design layout, and documentation
+contained within this repository are the intellectual property of the author.
+
+Strictly Confidential & Proprietary.
+
+Permission is hereby granted to evaluate this documentation and code architecture
+solely for review, portfolio inspection, and employment evaluation purposes.
+
+You may NOT:
+1. Copy, modify, merge, publish, distribute, sublicense, or sell copies of this
+   software or its visual/audio components.
+2. Use any portion of this repository to build, train, or optimize commercial or
+   open-source weather or activity tracking applications.
+3. Distribute modified versions of this repository under your own name.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
