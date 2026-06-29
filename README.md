@@ -2,7 +2,7 @@
 
 > **Global climate in your pocket.** A native iOS application that bridges hyper-local weather conditions, air quality monitoring, and personalized outdoor activity recommendations — all wrapped inside a beautiful, multi-sensory glassmorphic UI.
 
-[![Platform](https://img.shields.io/badge/Platform-iOS%2015.0+-blue.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-iOS%2018.5+-blue.svg)]()
 [![Language](https://img.shields.io/badge/Language-Swift%205-orange.svg)]()
 [![Build](https://img.shields.io/badge/Stack-100%25%20Native%20%2F%20Zero%20Dependencies-brightgreen.svg)]()
 [![Status](https://img.shields.io/badge/Status-Pre--Release%20%2F%20Commercial-yellow.svg)]()
@@ -405,4 +405,3 @@ To adhere strictly to the Apple App Store Review Guidelines, the FitCast archite
 Developed strictly as a private commercial iOS product. All layout structures, continuous multi-panel mockups, visual illustrations, and underlying logic models are fully protected under global intellectual property frameworks and App Store commercial presentation agreements.
 
 ```
----
